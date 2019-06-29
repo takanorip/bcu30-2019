@@ -1,0 +1,21 @@
+meta:
+  url:
+  title:
+  thumbnail:
+  description:
+  sns:
+    - twitter
+slide:
+  loop: true
+  sidebar: true
+  targetBlank: true
+  showIndex: false
+  isVertical: false
+  code:
+    languages:
+      - javascript
+    plugins: []
+    theme: "okaidia"
+extends:
+  js:
+  css:
