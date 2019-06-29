@@ -1,0 +1,26 @@
+{
+  "name": "bcu30-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "pdf": "fusuma pdf",
+    "live": "fusuma live -w '@nodejs'",
+    "deploy": "fusuma deploy"
+  },
+  "devDependencies": {
+    "fusuma": "^1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanorip/bcu30-2019.git"
+  },
+  "author": "takanorip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takanorip/bcu30-2019/issues"
+  },
+  "homepage": "https://github.com/takanorip/bcu30-2019#readme",
+  "description": ""
+}
